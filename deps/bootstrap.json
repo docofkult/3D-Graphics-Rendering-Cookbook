@@ -161,21 +161,21 @@
     "name": "bistro/PropTextures",
     "source": {
         "type": "archive",
-        "url": "https://casual-effects.com/g3d/data10/research/model/bistro/PropTextures"
+        "url": "https://casual-effects.com/g3d/data10/research/model/bistro/PropTextures.zip"
     }
 },
 {
     "name": "bistro/OtherTextures",
     "source": {
         "type": "archive",
-        "url": "https://casual-effects.com/g3d/data10/research/model/bistro/OtherTextures"
+        "url": "https://casual-effects.com/g3d/data10/research/model/bistro/OtherTextures.zip"
     }
 },
 {
     "name": "bistro/BuildingTextures",
     "source": {
         "type": "archive",
-        "url": "https://casual-effects.com/g3d/data10/research/model/bistro/BuildingTextures"
+        "url": "https://casual-effects.com/g3d/data10/research/model/bistro/BuildingTextures.zip"
     }
 },
 {
